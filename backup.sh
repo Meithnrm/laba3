@@ -1,7 +1,7 @@
 //эта тупая программа отняла у меня кучу времени, но она вес равно рисует не совсем правильный ррегольник
 from itertools import combinations
 class Figure():
- deffff __init__(self, m):
+ def __init__(self, m):
  if not m:
  m = self.matrix()
  self.m = m
