@@ -1,3 +1,4 @@
+//эта тупая программа отняла у меня кучу времени, но она вес равно рисует не совсем правильный ррегольник
 from itertools import combinations
 class Figure():
  def __init__(self, m):
